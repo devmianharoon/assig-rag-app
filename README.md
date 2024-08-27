@@ -32,7 +32,7 @@ This project demonstrates how to create a FAQ retrieval application using LangCh
    ```
    GOOGLE_API_KEY=your_google_api_key_here
    ```
-4. **Run **:
+4. **Run**:
    ```
    poetry run main.py
    ```
